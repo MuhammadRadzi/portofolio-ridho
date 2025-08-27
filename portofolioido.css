@@ -1,0 +1,111 @@
+* {
+background-color: #353543;
+font-family: sans-serif;
+}
+
+.nama { 
+    position: absolute;
+    display: flex;
+    color: #FFFF;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding-left: 800px;
+    font-weight: bold;
+    color: #FFFF;
+    list-style-type: none;
+}
+
+
+li:hover {
+    color: #ffb300;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
+a {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: #FFFF;
+}
+
+a:hover {
+    color: #ffb300;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
+.hi {
+    position: absolute;
+    color: #FFFF;
+    margin-left: 550px;
+    margin-top: 180px;
+}
+
+.my {   
+    color: #FFFF;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 550px;
+}
+
+.lorem {
+    position: absolute;
+    color: #FFFF;
+    width: 500px;
+    margin-left: 550px;
+    margin-top: 250px;
+
+}
+
+.tombol {
+    margin-top: 330px;
+    margin-left: 550px;
+    background-color: #ffb300;
+    color: #FFFF;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    width: 100px;
+}
+
+button:hover {
+    background-color: #FFFF;
+    color: #a39090;
+    transition: 0.5s;
+}
+
+.gambar1 {
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 313px;
+    margin-top: 159px;
+}
+
+.judul {
+    position: absolute;
+    color: #ffb300;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.proyek {
+    position: absolute;
+    margin-top: 250px;
+    color: #FFFF;
+    width: 499px;
+    margin-left: 50px;
+}
+
+.gambar2 {
+    margin-left: 850px;
+    margin-top: 190px;
+    
+}
